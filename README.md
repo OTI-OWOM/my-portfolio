@@ -5,4 +5,3 @@
 # About me
 ## I am skilled in Linux, Bash Scripting, Python, Node.Js and C. 
 
-## Projects-DevOps Lab 1
